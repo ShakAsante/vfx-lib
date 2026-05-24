@@ -1,0 +1,10 @@
+[package]
+name = "shakasante/vfx-lib"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "A lightweight VFX emission library for Roblox."
+license = "MIT"
+authors = ["ShakAsante"]
+
+[dependencies]
